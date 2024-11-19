@@ -6,3 +6,6 @@ Chatbot/
 
 # Ignore Conversation History files
 conversation_history_*.json
+
+# Ignore config.py file
+config.py
