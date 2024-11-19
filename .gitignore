@@ -1,0 +1,8 @@
+# Ignore the Virtual Environment Folder
+Chatbot/
+
+# Ignore Environment Variable
+.env
+
+# Ignore Conversation History files
+conversation_history_*.json
